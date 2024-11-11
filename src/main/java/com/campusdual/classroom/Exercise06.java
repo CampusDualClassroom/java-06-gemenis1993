@@ -10,6 +10,7 @@ public class Exercise06 {
         int month = now.get(Calendar.MONTH) + 1;
         int hour = now.get(Calendar.HOUR_OF_DAY);
         checkHour(3);
+        checkSeason(7);
     }
 
 
